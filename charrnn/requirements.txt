@@ -1,7 +1,0 @@
-python==3.7
-torch==1.4.0
-numpy
-torchnet
-torchvision==0.5.0
-visdom
-ipdb
